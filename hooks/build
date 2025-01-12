@@ -1,7 +1,7 @@
 #!/bin/bash
 
-!pip install paddle
-!pip install -y poppler-utils
-!pip install paddleocr pdf2image
+pip install paddle
+pip install -y poppler-utils
+pip install paddleocr pdf2image
 
-!pip install common dual tight data prox
+pip install common dual tight data prox
