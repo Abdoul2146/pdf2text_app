@@ -1,0 +1,63 @@
+ Ahmadu Bello University
+SALISU, YUSUF LAWAL
+Zaria - Nigeria
+Dashboard (https://portal.abu.edu.ng/notification/dashboard)
+ration/activate)
+odation (https://
+Exam Card (https://portal.abu.edu.ng/notification/examcard)
+Exam Results (https://portal.abu.edu.ng/notification/gradebook)
+Evaluation (https://portal.abu.edu.ng/notification/evaluation)
+My Wallet (https://portal.abu.edu.ng/notification/wallet)
+Exit Form (https://portal.abu.edu.ng/notification/exitform)
+4
+ACCOMMODATION TRANSACTION PAGE
+TRANSACTION ID: UA1735915648
+STUDENT INFORMATION
+Full Name:
+ SALISU, YUSUF LAWAL
+Reg. No.:
+ U18ME1070
+Gender:
+ Male
+ Programme:
+B.Eng. Mechanical Engineeringe
+Department:
+ Mechanical Engineering
+Engineering
+Faculty:
+07012669819
+Mobile No:
+Email:
+yusufslawal806@gmail.come
+RESERVATION DETAIL
+Hostel:
+Ramat Hall
+B
+ Room:
+29
+Date of Reservation:
+ 3rd Jan, 2025 2:47pm
+ Reservation Status:
+ PAID
+PAYMENT SUMMARY
+Amount Payable:
+#24,090.00
+Amount Paid:
+24,090.00
+Amount Due:
+0.00
+UA1735915648
+Transaction Amount:
+24,090.00
+Date Generated:
+3rd Jan, 2025 2:47pm
+Status:
+PAID
+Date Paid:
+ 4th Jan, 2025 10:51am
+Paid Through:
+eWallet
+RRR:
+291179690005
+
+==================================================
