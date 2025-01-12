@@ -23,7 +23,7 @@ cd <repository_folder>
 
 Create and activate a virtual environment:
 
-python -m venv ocr
+python3.10 -m venv ocr
 ocr\Scripts\activate
 
 Install dependencies:
